@@ -35,3 +35,4 @@ I got the following insights from my Analysis:  <br />
 3. The Most mentioned Tool was GitHub(:)) mention 116 times followed by Power BI  <br />
 4. Wednesday was the Weekday with the Most Tweets having 182 Tweets  <br />
 5. Twitter for Android was the Most used Device for tweeting (Twitter for Android wins again), making up 62%  <br />
+[Here is a Link to the Report in Power BI service (https://app.powerbi.com/links/e_Bh0_0M2j?ctid=a7c50249-c148-4b70-9b9c-6c4b157ec4f5&pbi_source=linkShare)]
